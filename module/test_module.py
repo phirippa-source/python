@@ -8,5 +8,5 @@ def number_input():
 def get_circumference(radius):
   return 2 * PI * radius
 
-def get_cicle_area(radius):
-  return PI * radius ** 2
+def get_circle_area(radius):
+  return PI * radius * radius
