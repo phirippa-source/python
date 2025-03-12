@@ -2,7 +2,7 @@
 PI = 3.141592
 
 def number_input():
-  output = input("숫자 입력 >")
+  output = input("Number >")
   return float(output)
 
 def get_circumference(radius):
